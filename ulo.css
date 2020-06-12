@@ -1,0 +1,43 @@
+
+/* ********** */
+/* For the image */
+img {
+  margin: auto;
+  max-width: 1140px;
+}
+
+.image1 {
+  padding-top: 50px 0;
+  
+}
+
+/* ******************* */
+/* -------------------------- */
+/* for the live update text */
+/* ---------------------------- */
+.update {
+  padding-top: 80px;
+}
+
+.update a {
+  text-decoration: none;
+}
+
+.update p {
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  color: black;
+}
+/* ----------------- */
+/* ********************** */
+ .summary{
+   padding-top: 50px ;
+   
+ }
+
+ .summary p{
+   text-align: center;
+   padding: 50px 0;
+   font-size: 25px;
+ }
